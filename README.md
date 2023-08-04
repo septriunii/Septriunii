@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Septriunii
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Frontend Web Development and Software Engineering
+- 🌱 I’m currently building websites and applying for jobs
+- 📫 You can reach me through my gmail anthonyalabado3712@gmail.com
 
 <!---
 Septriunii/Septriunii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
